@@ -1,9 +1,19 @@
-## Hi there 👋
+Hello, I'm Victoria
+I'm an Information Systems student focused on backend development. I enjoy understanding how systems work behind the scenes and how logic turns ideas into real solutions.
 
-<!--
-**viconilda/viconilda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Tech Stack:
 
-Here are some ideas to get you started:
+Java
+SQL
+Spring Boot
+
+
+📫 Contact
+
+Email: [victorialeyte@hotmail.com](mailto:victorialeyte@hotmail.com)
+LinkedIn: [Victoria Leite](https://www.linkedin.com/in/victorialsleite/)
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
